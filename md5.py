@@ -36,7 +36,7 @@ if(your_password_md5 == real_password_md5):
 else:
 	if (password_check):
 		print("\n<<Developer Notes: Dear myself, looks like you forgot the password again.>>")
-		print("\n<<Maybe check the code here: >>")
+		print("\n<<Maybe check the code here: https://github.com/Skiti/python-md5>>")
 		print("\n<<TODO: remove this message later>>")
 	else:
 		print("\n<<Haha it will be years before you can face me!>>")
